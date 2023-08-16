@@ -29,3 +29,9 @@ h1 {
   font-size: 18px;
   font-family: "Roboto", sans-serif;
 }
+
+.github-link {
+  display: block;
+  text-align: center;
+  margin-top: 80px;
+}
